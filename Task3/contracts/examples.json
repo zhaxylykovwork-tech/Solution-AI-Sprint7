@@ -1,0 +1,6 @@
+{
+  "note":"Synthetic identifiers and values, no customer records",
+  "rank":{"operationId":"synthetic-op-001","cutoff":"2026-01-01T00:00:00Z","featureVersion":"features-v1","modelVersion":"iforest-pilot-v1","status":"READY","score":-0.42,"reasonCodes":["SHORT_HOLDING_WINDOW"],"sourceRefs":["synthetic-snapshot-01:row-1"],"validUntil":"2026-01-02T00:00:00Z"},
+  "abstain":{"operationId":"synthetic-op-002","cutoff":"2026-01-01T00:00:00Z","featureVersion":"features-v1","modelVersion":"iforest-pilot-v1","status":"ABSTAIN","score":null,"reasonCodes":["NO_HISTORY"],"sourceRefs":[],"validUntil":"2026-01-02T00:00:00Z"},
+  "document":{"documentId":"synthetic-doc-001","version":1,"hash":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa","engineVersion":"extractor-pilot-v1","status":"REVIEW","fields":[{"name":"revenue","value":"1250.00","unit":"thousand","currency":"RUB","period":"2025","source":{"page":1,"bbox":[0.1,0.2,0.6,0.25],"span":"Выручка за 2025 год, тыс. руб.: 1250,00"},"issue":"NONE"},{"name":"net_profit","value":null,"unit":null,"currency":null,"period":null,"source":null,"issue":"MISSING"}]}
+}

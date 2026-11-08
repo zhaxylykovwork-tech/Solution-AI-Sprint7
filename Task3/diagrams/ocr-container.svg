@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1100" viewBox="0 0 1800 1100">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="56" font-family="Arial,DejaVu Sans,sans-serif" font-size="34" fill="#172b4d">C4 L2 | №2 OCR</text>
+<text x="40" y="101" font-family="Arial,DejaVu Sans,sans-serif" font-size="23" fill="#172b4d">D1 пересекает TB1. Пунктирные TB — границы доверия; угрозы и протоколы в architecture.md.</text>
+<polyline points="340,140 1740,140 1740,840 340,840 340,140" fill="none" stroke="#71849c" stroke-width="2" stroke-dasharray="11 9"/>
+<rect x="350" y="110" width="374.0" height="27" fill="white"/>
+<text x="354" y="133" font-family="Arial,DejaVu Sans,sans-serif" font-size="21" fill="#172b4d">TB2 | Банковский сервис документов</text>
+<polyline points="10,225 310,225 310,430 10,430 10,225" fill="none" stroke="#71849c" stroke-width="2" stroke-dasharray="11 9"/>
+<rect x="20" y="195" width="47.0" height="27" fill="white"/>
+<text x="24" y="218" font-family="Arial,DejaVu Sans,sans-serif" font-size="21" fill="#172b4d">TB1</text>
+<polyline points="1280,215 1720,215 1720,420 1280,420 1280,215" fill="none" stroke="#71849c" stroke-width="2" stroke-dasharray="11 9"/>
+<rect x="1290" y="185" width="47.0" height="27" fill="white"/>
+<text x="1294" y="208" font-family="Arial,DejaVu Sans,sans-serif" font-size="21" fill="#172b4d">TB3</text>
+<polyline points="1280,850 1720,850 1720,980 1280,980 1280,850" fill="none" stroke="#71849c" stroke-width="2" stroke-dasharray="11 9"/>
+<rect x="1290" y="820" width="47.0" height="27" fill="white"/>
+<text x="1294" y="843" font-family="Arial,DejaVu Sans,sans-serif" font-size="21" fill="#172b4d">TB4</text>
+<polyline points="10,625 310,625 310,830 10,830 10,625" fill="none" stroke="#71849c" stroke-width="2" stroke-dasharray="11 9"/>
+<rect x="20" y="595" width="47.0" height="27" fill="white"/>
+<text x="24" y="618" font-family="Arial,DejaVu Sans,sans-serif" font-size="21" fill="#172b4d">TB5</text>
+<polyline points="300,330 400,330" fill="none" stroke="#476582" stroke-width="3"/>
+<polygon points="400,330 386.18408508995674,335.84127513462977 386.18408508995674,324.15872486537023" fill="#476582"/>
+<rect x="326" y="293" width="35.0" height="30" fill="white"/>
+<text x="330" y="316" font-family="Arial,DejaVu Sans,sans-serif" font-size="21" fill="#172b4d">D1</text>
+<polyline points="750,320 850,320" fill="none" stroke="#476582" stroke-width="3"/>
+<polygon points="850,320 836.1840850899567,325.84127513462977 836.1840850899567,314.15872486537023" fill="#476582"/>
+<rect x="776" y="283" width="35.0" height="30" fill="white"/>
+<text x="780" y="306" font-family="Arial,DejaVu Sans,sans-serif" font-size="21" fill="#172b4d">D2</text>
+<polyline points="1200,320 1300,320" fill="none" stroke="#476582" stroke-width="3"/>
+<polygon points="1300,320 1286.1840850899566,325.84127513462977 1286.1840850899566,314.15872486537023" fill="#476582"/>
+<rect x="1226" y="283" width="37.0" height="30" fill="white"/>
+<text x="1230" y="306" font-family="Arial,DejaVu Sans,sans-serif" font-size="21" fill="#172b4d">job</text>
+<polyline points="1475,400 1475,650" fill="none" stroke="#476582" stroke-width="3"/>
+<polygon points="1475,650 1469.1587248653702,636.1840850899567 1480.8412751346298,636.1840850899567" fill="#476582"/>
+<rect x="1486" y="508" width="68.0" height="30" fill="white"/>
+<text x="1490" y="531" font-family="Arial,DejaVu Sans,sans-serif" font-size="21" fill="#172b4d">D3/D4</text>
+<polyline points="1300,730 1200,730" fill="none" stroke="#476582" stroke-width="3"/>
+<polygon points="1200,730 1213.8159149100434,724.1587248653702 1213.8159149100434,735.8412751346298" fill="#476582"/>
+<rect x="1226" y="693" width="35.0" height="30" fill="white"/>
+<text x="1230" y="716" font-family="Arial,DejaVu Sans,sans-serif" font-size="21" fill="#172b4d">D5</text>
+<polyline points="850,730 300,730" fill="none" stroke="#476582" stroke-width="3"/>
+<polygon points="300,730 313.81591491004326,724.1587248653702 313.81591491004326,735.8412751346298" fill="#476582"/>
+<rect x="526" y="693" width="98.0" height="30" fill="white"/>
+<text x="530" y="716" font-family="Arial,DejaVu Sans,sans-serif" font-size="21" fill="#172b4d">approved</text>
+<polyline points="1475,870 1475,810" fill="none" stroke="#476582" stroke-width="3"/>
+<polygon points="1475,810 1480.8412751346298,823.8159149100433 1469.1587248653702,823.8159149100433" fill="#476582"/>
+<rect x="1496" y="823" width="77.0" height="30" fill="white"/>
+<text x="1500" y="846" font-family="Arial,DejaVu Sans,sans-serif" font-size="21" fill="#172b4d">HTTPS</text>
+<rect x="30" y="250" width="270" height="160" rx="8" fill="#f1f3f6" stroke="#476582" stroke-width="2"/>
+<text x="44" y="288" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">Документооборот</text>
+<text x="44" y="319" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">[Neighbour system]</text>
+<text x="44" y="350" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">Version / hash / ACL</text>
+<rect x="400" y="240" width="350" height="160" rx="8" fill="#e8f2ff" stroke="#476582" stroke-width="2"/>
+<text x="414" y="278" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">C1 Quarantine / Input</text>
+<text x="414" y="309" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">[Container / sandbox]</text>
+<text x="414" y="340" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">Type / limits / version</text>
+<rect x="850" y="240" width="350" height="160" rx="8" fill="#e8f2ff" stroke="#476582" stroke-width="2"/>
+<text x="864" y="278" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">C2 Job Orchestrator</text>
+<text x="864" y="309" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">[Container / API + MQ]</text>
+<text x="864" y="340" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">202 jobId / async / retry</text>
+<rect x="1300" y="240" width="350" height="160" rx="8" fill="#e4f5ec" stroke="#476582" stroke-width="2"/>
+<text x="1314" y="278" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">C3 OCR Worker</text>
+<text x="1314" y="309" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">[Container / ML + code]</text>
+<text x="1314" y="340" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">Pinned model / no egress</text>
+<rect x="1300" y="650" width="350" height="160" rx="8" fill="#e8f2ff" stroke="#476582" stroke-width="2"/>
+<text x="1314" y="688" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">C4 Validator / Review</text>
+<text x="1314" y="719" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">[Container / API + UI]</text>
+<text x="1314" y="750" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">Source / schema / human</text>
+<rect x="850" y="650" width="350" height="160" rx="8" fill="#fff2d9" stroke="#476582" stroke-width="2"/>
+<text x="864" y="688" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">C5 Approved Store</text>
+<text x="864" y="719" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">[Container / DB+objects]</text>
+<text x="864" y="750" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">Version + signed approval</text>
+<rect x="30" y="650" width="270" height="160" rx="8" fill="#f1f3f6" stroke="#476582" stroke-width="2"/>
+<text x="44" y="688" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">№18 / Андеррайтинг</text>
+<text x="44" y="719" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">[Neighbour system]</text>
+<text x="44" y="750" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">Read approved version</text>
+<rect x="1300" y="870" width="350" height="100" rx="8" fill="#f1f3f6" stroke="#476582" stroke-width="2"/>
+<text x="1314" y="908" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">Оператор + IdP / Audit</text>
+<text x="1314" y="939" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">[Person / external services]</text>
+<text x="40" y="1031" font-family="Arial,DejaVu Sans,sans-serif" font-size="21" fill="#172b4d">D2/D3: асинхронные задания и structured result. D4: независимая проверка до UI и подтверждения.</text>
+<text x="40" y="1061" font-family="Arial,DejaVu Sans,sans-serif" font-size="21" fill="#172b4d">TB5: downstream читает только approved version; сбой/конфликт → REVIEW или ручной ввод.</text>
+</svg>

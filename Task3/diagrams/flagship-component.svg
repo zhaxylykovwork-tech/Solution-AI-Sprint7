@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1100" viewBox="0 0 1800 1100">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="56" font-family="Arial,DejaVu Sans,sans-serif" font-size="34" fill="#172b4d">C4 L3 | Компоненты контейнера C2 Batch Ranker</text>
+<text x="40" y="101" font-family="Arial,DejaVu Sans,sans-serif" font-size="23" fill="#172b4d">Внутри пунктирной рамки один deployment. Loader/Guard/Assembler/Outbox — код, Scorer — ML.</text>
+<polyline points="340,150 1740,150 1740,860 340,860 340,150" fill="none" stroke="#71849c" stroke-width="2" stroke-dasharray="11 9"/>
+<rect x="350" y="120" width="396.0" height="27" fill="white"/>
+<text x="354" y="143" font-family="Arial,DejaVu Sans,sans-serif" font-size="21" fill="#172b4d">C2 Batch Ranker | deployment boundary</text>
+<polyline points="1280,225 1720,225 1720,430 1280,430 1280,225" fill="none" stroke="#71849c" stroke-width="2" stroke-dasharray="11 9"/>
+<rect x="1290" y="195" width="47.0" height="27" fill="white"/>
+<text x="1294" y="218" font-family="Arial,DejaVu Sans,sans-serif" font-size="21" fill="#172b4d">TB3</text>
+<polyline points="290,330 400,330" fill="none" stroke="#476582" stroke-width="3"/>
+<polygon points="400,330 386.18408508995674,335.84127513462977 386.18408508995674,324.15872486537023" fill="#476582"/>
+<rect x="306" y="293" width="49.0" height="30" fill="white"/>
+<text x="310" y="316" font-family="Arial,DejaVu Sans,sans-serif" font-size="21" fill="#172b4d">load</text>
+<polyline points="750,330 850,330" fill="none" stroke="#476582" stroke-width="3"/>
+<polygon points="850,330 836.1840850899567,335.84127513462977 836.1840850899567,324.15872486537023" fill="#476582"/>
+<rect x="766" y="293" width="65.0" height="30" fill="white"/>
+<text x="770" y="316" font-family="Arial,DejaVu Sans,sans-serif" font-size="21" fill="#172b4d">check</text>
+<polyline points="1200,330 1300,330" fill="none" stroke="#476582" stroke-width="3"/>
+<polygon points="1300,330 1286.1840850899566,335.84127513462977 1286.1840850899566,324.15872486537023" fill="#476582"/>
+<rect x="1216" y="293" width="61.0" height="30" fill="white"/>
+<text x="1220" y="316" font-family="Arial,DejaVu Sans,sans-serif" font-size="21" fill="#172b4d">score</text>
+<polyline points="1475,410 1475,650" fill="none" stroke="#476582" stroke-width="3"/>
+<polygon points="1475,650 1469.1587248653702,636.1840850899567 1480.8412751346298,636.1840850899567" fill="#476582"/>
+<rect x="1486" y="508" width="101.0" height="30" fill="white"/>
+<text x="1490" y="531" font-family="Arial,DejaVu Sans,sans-serif" font-size="21" fill="#172b4d">assemble</text>
+<polyline points="1300,730 1200,730" fill="none" stroke="#476582" stroke-width="3"/>
+<polygon points="1200,730 1213.8159149100434,724.1587248653702 1213.8159149100434,735.8412751346298" fill="#476582"/>
+<rect x="1211" y="693" width="72.0" height="30" fill="white"/>
+<text x="1215" y="716" font-family="Arial,DejaVu Sans,sans-serif" font-size="21" fill="#172b4d">persist</text>
+<polyline points="850,730 300,730" fill="none" stroke="#476582" stroke-width="3"/>
+<polygon points="300,730 313.81591491004326,724.1587248653702 313.81591491004326,735.8412751346298" fill="#476582"/>
+<rect x="546" y="693" width="33.0" height="30" fill="white"/>
+<text x="550" y="716" font-family="Arial,DejaVu Sans,sans-serif" font-size="21" fill="#172b4d">F4</text>
+<rect x="30" y="270" width="260" height="160" rx="8" fill="#f1f3f6" stroke="#476582" stroke-width="2"/>
+<text x="44" y="308" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">C1 Features</text>
+<text x="44" y="339" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">[Neighbour container]</text>
+<text x="44" y="370" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">Manifest + cutoff</text>
+<rect x="400" y="250" width="350" height="160" rx="8" fill="#e8f2ff" stroke="#476582" stroke-width="2"/>
+<text x="414" y="288" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">Manifest Loader</text>
+<text x="414" y="319" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">[Component / code]</text>
+<text x="414" y="350" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">Hash / batchId / schema</text>
+<rect x="850" y="250" width="350" height="160" rx="8" fill="#e8f2ff" stroke="#476582" stroke-width="2"/>
+<text x="864" y="288" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">Feature Guard</text>
+<text x="864" y="319" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">[Component / code]</text>
+<text x="864" y="350" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">Freshness / history</text>
+<rect x="1300" y="250" width="350" height="160" rx="8" fill="#e4f5ec" stroke="#476582" stroke-width="2"/>
+<text x="1314" y="288" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">Model Scorer</text>
+<text x="1314" y="319" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">[Component / ML]</text>
+<text x="1314" y="350" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">Pinned preprocessing + IF</text>
+<rect x="850" y="650" width="350" height="160" rx="8" fill="#e8f2ff" stroke="#476582" stroke-width="2"/>
+<text x="864" y="688" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">Result / Outbox</text>
+<text x="864" y="719" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">[Component / code]</text>
+<text x="864" y="750" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">Atomic result + delivery</text>
+<rect x="1300" y="650" width="350" height="160" rx="8" fill="#e8f2ff" stroke="#476582" stroke-width="2"/>
+<text x="1314" y="688" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">Result Assembler</text>
+<text x="1314" y="719" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">[Component / code]</text>
+<text x="1314" y="750" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">Score / reasons / ABSTAIN</text>
+<rect x="30" y="650" width="270" height="160" rx="8" fill="#f1f3f6" stroke="#476582" stroke-width="2"/>
+<text x="44" y="688" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">C3 Validator / Queue</text>
+<text x="44" y="719" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">[Neighbour container]</text>
+<text x="44" y="750" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">Validate before case</text>
+<text x="40" y="1031" font-family="Arial,DejaVu Sans,sans-serif" font-size="21" fill="#172b4d">TB3: подписанный digest модели проверяется перед Scorer; нет сетевой загрузки latest.</text>
+<text x="40" y="1061" font-family="Arial,DejaVu Sans,sans-serif" font-size="21" fill="#172b4d">Ошибка признаков → ABSTAIN/FALLBACK. Outbox retry не выполняет платёж и не создаёт дубли cases.</text>
+</svg>
