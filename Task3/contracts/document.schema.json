@@ -1,0 +1,33 @@
+{
+  "$schema":"https://json-schema.org/draft/2020-12/schema",
+  "title":"Unapproved document candidates v1",
+  "type":"object","additionalProperties":false,
+  "required":["documentId","version","hash","engineVersion","status","fields"],
+  "properties":{
+    "documentId":{"type":"string","minLength":1},
+    "version":{"type":"integer","minimum":1},
+    "hash":{"type":"string","pattern":"^[a-f0-9]{64}$"},
+    "engineVersion":{"type":"string","minLength":1},
+    "status":{"enum":["REVIEW","REJECTED"]},
+    "fields":{"type":"array","items":{"$ref":"#/$defs/field"}}
+  },
+  "$defs":{
+    "field":{
+      "type":"object","additionalProperties":false,
+      "required":["name","value","unit","currency","period","source","issue"],
+      "properties":{
+        "name":{"type":"string","minLength":1},
+        "value":{"type":["string","null"]},
+        "unit":{"type":["string","null"]},
+        "currency":{"type":["string","null"]},
+        "period":{"type":["string","null"]},
+        "source":{"oneOf":[{"type":"null"},{"type":"object","additionalProperties":false,"required":["page","bbox","span"],"properties":{"page":{"type":"integer","minimum":1},"bbox":{"type":"array","minItems":4,"maxItems":4,"items":{"type":"number","minimum":0,"maximum":1}},"span":{"type":"string","minLength":1}}}]},
+        "issue":{"enum":["NONE","MISSING","CONFLICT","LOW_CONFIDENCE","UNSUPPORTED"]}
+      },
+      "allOf":[
+        {"if":{"properties":{"value":{"type":"null"}}},"then":{"properties":{"issue":{"not":{"const":"NONE"}}}},"else":{"properties":{"source":{"type":"object"}}}},
+        {"if":{"properties":{"name":{"not":{"const":"raw_text"}},"value":{"type":"string"}}},"then":{"properties":{"value":{"pattern":"^-?[0-9]+(\\.[0-9]+)?$"},"unit":{"type":"string","minLength":1},"currency":{"type":"string","pattern":"^[A-Z]{3}$"},"period":{"type":"string","minLength":1}}}}
+      ]
+    }
+  }
+}

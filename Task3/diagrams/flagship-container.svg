@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1100" viewBox="0 0 1800 1100">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="56" font-family="Arial,DejaVu Sans,sans-serif" font-size="34" fill="#172b4d">C4 L2 | №1: приоритизация ручных проверок</text>
+<text x="40" y="101" font-family="Arial,DejaVu Sans,sans-serif" font-size="23" fill="#172b4d">TB1 источник → обработка; TB2 банковский сервис; TB3 артефакты; TB4 сотрудник / IdP.</text>
+<polyline points="340,140 1740,140 1740,840 340,840 340,140" fill="none" stroke="#71849c" stroke-width="2" stroke-dasharray="11 9"/>
+<rect x="350" y="110" width="307.0" height="27" fill="white"/>
+<text x="354" y="133" font-family="Arial,DejaVu Sans,sans-serif" font-size="21" fill="#172b4d">TB2 | Система приоритизации</text>
+<polyline points="10,225 310,225 310,430 10,430 10,225" fill="none" stroke="#71849c" stroke-width="2" stroke-dasharray="11 9"/>
+<rect x="20" y="195" width="47.0" height="27" fill="white"/>
+<text x="24" y="218" font-family="Arial,DejaVu Sans,sans-serif" font-size="21" fill="#172b4d">TB1</text>
+<polyline points="380,625 770,625 770,830 380,830 380,625" fill="none" stroke="#71849c" stroke-width="2" stroke-dasharray="11 9"/>
+<rect x="390" y="595" width="47.0" height="27" fill="white"/>
+<text x="394" y="618" font-family="Arial,DejaVu Sans,sans-serif" font-size="21" fill="#172b4d">TB3</text>
+<polyline points="1280,850 1720,850 1720,980 1280,980 1280,850" fill="none" stroke="#71849c" stroke-width="2" stroke-dasharray="11 9"/>
+<rect x="1290" y="820" width="47.0" height="27" fill="white"/>
+<text x="1294" y="843" font-family="Arial,DejaVu Sans,sans-serif" font-size="21" fill="#172b4d">TB4</text>
+<polyline points="1280,625 1720,625 1720,830 1280,830 1280,625" fill="none" stroke="#71849c" stroke-width="2" stroke-dasharray="11 9"/>
+<rect x="1290" y="595" width="47.0" height="27" fill="white"/>
+<text x="1294" y="618" font-family="Arial,DejaVu Sans,sans-serif" font-size="21" fill="#172b4d">TB5</text>
+<polyline points="290,330 400,330" fill="none" stroke="#476582" stroke-width="3"/>
+<polygon points="400,330 386.18408508995674,335.84127513462977 386.18408508995674,324.15872486537023" fill="#476582"/>
+<rect x="321" y="293" width="33.0" height="30" fill="white"/>
+<text x="325" y="316" font-family="Arial,DejaVu Sans,sans-serif" font-size="21" fill="#172b4d">F1</text>
+<polyline points="750,320 850,320" fill="none" stroke="#476582" stroke-width="3"/>
+<polygon points="850,320 836.1840850899567,325.84127513462977 836.1840850899567,314.15872486537023" fill="#476582"/>
+<rect x="776" y="283" width="33.0" height="30" fill="white"/>
+<text x="780" y="306" font-family="Arial,DejaVu Sans,sans-serif" font-size="21" fill="#172b4d">F2</text>
+<polyline points="1200,320 1300,320" fill="none" stroke="#476582" stroke-width="3"/>
+<polygon points="1300,320 1286.1840850899566,325.84127513462977 1286.1840850899566,314.15872486537023" fill="#476582"/>
+<rect x="1226" y="283" width="33.0" height="30" fill="white"/>
+<text x="1230" y="306" font-family="Arial,DejaVu Sans,sans-serif" font-size="21" fill="#172b4d">F4</text>
+<polyline points="1475,400 1475,650" fill="none" stroke="#476582" stroke-width="3"/>
+<polygon points="1475,650 1469.1587248653702,636.1840850899567 1480.8412751346298,636.1840850899567" fill="#476582"/>
+<rect x="1486" y="508" width="33.0" height="30" fill="white"/>
+<text x="1490" y="531" font-family="Arial,DejaVu Sans,sans-serif" font-size="21" fill="#172b4d">F5</text>
+<polyline points="1300,730 1200,730" fill="none" stroke="#476582" stroke-width="3"/>
+<polygon points="1200,730 1213.8159149100434,724.1587248653702 1213.8159149100434,735.8412751346298" fill="#476582"/>
+<rect x="1226" y="693" width="33.0" height="30" fill="white"/>
+<text x="1230" y="716" font-family="Arial,DejaVu Sans,sans-serif" font-size="21" fill="#172b4d">F7</text>
+<polyline points="575,650 575,520 1025,520 1025,400" fill="none" stroke="#476582" stroke-width="3"/>
+<polygon points="1025,400 1030.8412751346298,413.81591491004326 1019.1587248653702,413.81591491004326" fill="#476582"/>
+<rect x="706" y="483" width="33.0" height="30" fill="white"/>
+<text x="710" y="506" font-family="Arial,DejaVu Sans,sans-serif" font-size="21" fill="#172b4d">F3</text>
+<polyline points="850,770 795,770 795,190 575,190 575,240" fill="none" stroke="#476582" stroke-width="3"/>
+<polygon points="575,240 569.1587248653702,226.18408508995674 580.8412751346298,226.18408508995674" fill="#476582"/>
+<rect x="801" y="563" width="97.0" height="30" fill="white"/>
+<text x="805" y="586" font-family="Arial,DejaVu Sans,sans-serif" font-size="21" fill="#172b4d">F8 offline</text>
+<polyline points="1475,870 1475,810" fill="none" stroke="#476582" stroke-width="3"/>
+<polygon points="1475,810 1480.8412751346298,823.8159149100433 1469.1587248653702,823.8159149100433" fill="#476582"/>
+<rect x="1496" y="823" width="108.0" height="30" fill="white"/>
+<text x="1500" y="846" font-family="Arial,DejaVu Sans,sans-serif" font-size="21" fill="#172b4d">F6 HTTPS</text>
+<rect x="30" y="250" width="260" height="160" rx="8" fill="#f1f3f6" stroke="#476582" stroke-width="2"/>
+<text x="44" y="288" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">АБС + rules</text>
+<text x="44" y="319" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">[Соседние системы]</text>
+<text x="44" y="350" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">Операции / сигналы</text>
+<rect x="400" y="240" width="350" height="160" rx="8" fill="#e8f2ff" stroke="#476582" stroke-width="2"/>
+<text x="414" y="278" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">C1 Ingestion / Features</text>
+<text x="414" y="309" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">[Container / Python]</text>
+<text x="414" y="340" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">As-of / snapshot manifest</text>
+<rect x="850" y="240" width="350" height="160" rx="8" fill="#e4f5ec" stroke="#476582" stroke-width="2"/>
+<text x="864" y="278" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">C2 Batch Ranker</text>
+<text x="864" y="309" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">[Container / Python]</text>
+<text x="864" y="340" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">IsolationForest / reasons</text>
+<rect x="1300" y="240" width="350" height="160" rx="8" fill="#e8f2ff" stroke="#476582" stroke-width="2"/>
+<text x="1314" y="278" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">C3 Validator / Queue</text>
+<text x="1314" y="309" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">[Container / Python+MQ]</text>
+<text x="1314" y="340" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">Mandatory / control / model</text>
+<rect x="400" y="650" width="350" height="160" rx="8" fill="#fff2d9" stroke="#476582" stroke-width="2"/>
+<text x="414" y="688" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">C6 Model Registry</text>
+<text x="414" y="719" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">[Container / artifact store]</text>
+<text x="414" y="750" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">Signed model / test manifest</text>
+<rect x="850" y="650" width="350" height="160" rx="8" fill="#fff2d9" stroke="#476582" stroke-width="2"/>
+<text x="864" y="688" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">C5 Audit / Outcomes</text>
+<text x="864" y="719" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">[Container / PostgreSQL]</text>
+<text x="864" y="750" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">Expert / outcome / formal</text>
+<rect x="1300" y="650" width="350" height="160" rx="8" fill="#e8f2ff" stroke="#476582" stroke-width="2"/>
+<text x="1314" y="688" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">C4 Case API / UI</text>
+<text x="1314" y="719" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">[Container / Web API]</text>
+<text x="1314" y="750" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">Human decision + audit</text>
+<rect x="1300" y="870" width="350" height="100" rx="8" fill="#f1f3f6" stroke="#476582" stroke-width="2"/>
+<text x="1314" y="908" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">Финмонитор + IdP</text>
+<text x="1314" y="939" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">[Person / external IdP]</text>
+<text x="40" y="1031" font-family="Arial,DejaVu Sans,sans-serif" font-size="21" fill="#172b4d">Синие: код/сервисы. Зелёный: ML runtime. Жёлтые: хранилища. Серые: внешние системы/человек.</text>
+<text x="40" y="1061" font-family="Arial,DejaVu Sans,sans-serif" font-size="21" fill="#172b4d">F1 пересекает TB1/TB2. F5 проверяется до case. Платёжный шлюз не связан с ML.</text>
+</svg>

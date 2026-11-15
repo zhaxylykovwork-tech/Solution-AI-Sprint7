@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1100" viewBox="0 0 1800 1100">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="56" font-family="Arial,DejaVu Sans,sans-serif" font-size="34" fill="#172b4d">DFD | №1: происхождение данных и допуск результата</text>
+<text x="40" y="101" font-family="Arial,DejaVu Sans,sans-serif" font-size="23" fill="#172b4d">D — хранилище, P — процесс. Это поток данных, а не дополнительная C4-диаграмма.</text>
+<polyline points="460,150 1770,150 1770,860 460,860 460,150" fill="none" stroke="#71849c" stroke-width="2" stroke-dasharray="11 9"/>
+<rect x="470" y="120" width="392.0" height="27" fill="white"/>
+<text x="474" y="143" font-family="Arial,DejaVu Sans,sans-serif" font-size="21" fill="#172b4d">TB2 | Обработка в банковском контуре</text>
+<polyline points="20,225 410,225 410,430 20,430 20,225" fill="none" stroke="#71849c" stroke-width="2" stroke-dasharray="11 9"/>
+<rect x="30" y="195" width="47.0" height="27" fill="white"/>
+<text x="34" y="218" font-family="Arial,DejaVu Sans,sans-serif" font-size="21" fill="#172b4d">TB1</text>
+<polyline points="940,225 1330,225 1330,430 940,430 940,225" fill="none" stroke="#71849c" stroke-width="2" stroke-dasharray="11 9"/>
+<rect x="950" y="195" width="47.0" height="27" fill="white"/>
+<text x="954" y="218" font-family="Arial,DejaVu Sans,sans-serif" font-size="21" fill="#172b4d">TB3</text>
+<polyline points="940,625 1330,625 1330,830 940,830 940,625" fill="none" stroke="#71849c" stroke-width="2" stroke-dasharray="11 9"/>
+<rect x="950" y="595" width="47.0" height="27" fill="white"/>
+<text x="954" y="618" font-family="Arial,DejaVu Sans,sans-serif" font-size="21" fill="#172b4d">TB4</text>
+<polyline points="1400,625 1770,625 1770,830 1400,830 1400,625" fill="none" stroke="#71849c" stroke-width="2" stroke-dasharray="11 9"/>
+<rect x="1410" y="595" width="47.0" height="27" fill="white"/>
+<text x="1414" y="618" font-family="Arial,DejaVu Sans,sans-serif" font-size="21" fill="#172b4d">TB5</text>
+<polyline points="390,330 500,330" fill="none" stroke="#476582" stroke-width="3"/>
+<polygon points="500,330 486.18408508995674,335.84127513462977 486.18408508995674,324.15872486537023" fill="#476582"/>
+<rect x="411" y="293" width="47.0" height="30" fill="white"/>
+<text x="415" y="316" font-family="Arial,DejaVu Sans,sans-serif" font-size="21" fill="#172b4d">TB1</text>
+<polyline points="850,330 960,330" fill="none" stroke="#476582" stroke-width="3"/>
+<polygon points="960,330 946.1840850899567,335.84127513462977 946.1840850899567,324.15872486537023" fill="#476582"/>
+<rect x="856" y="293" width="86.0" height="30" fill="white"/>
+<text x="860" y="316" font-family="Arial,DejaVu Sans,sans-serif" font-size="21" fill="#172b4d">features</text>
+<polyline points="1310,330 1420,330" fill="none" stroke="#476582" stroke-width="3"/>
+<polygon points="1420,330 1406.1840850899566,335.84127513462977 1406.1840850899566,324.15872486537023" fill="#476582"/>
+<rect x="1316" y="293" width="102.0" height="30" fill="white"/>
+<text x="1320" y="316" font-family="Arial,DejaVu Sans,sans-serif" font-size="21" fill="#172b4d">candidate</text>
+<polyline points="1585,410 1585,650" fill="none" stroke="#476582" stroke-width="3"/>
+<polygon points="1585,650 1579.1587248653702,636.1840850899567 1590.8412751346298,636.1840850899567" fill="#476582"/>
+<rect x="1596" y="508" width="78.0" height="30" fill="white"/>
+<text x="1600" y="531" font-family="Arial,DejaVu Sans,sans-serif" font-size="21" fill="#172b4d">verified</text>
+<polyline points="1420,730 1310,730" fill="none" stroke="#476582" stroke-width="3"/>
+<polygon points="1310,730 1323.8159149100434,724.1587248653702 1323.8159149100434,735.8412751346298" fill="#476582"/>
+<rect x="1341" y="693" width="54.0" height="30" fill="white"/>
+<text x="1345" y="716" font-family="Arial,DejaVu Sans,sans-serif" font-size="21" fill="#172b4d">case</text>
+<polyline points="960,730 850,730" fill="none" stroke="#476582" stroke-width="3"/>
+<polygon points="850,730 863.8159149100433,724.1587248653702 863.8159149100433,735.8412751346298" fill="#476582"/>
+<rect x="866" y="693" width="61.0" height="30" fill="white"/>
+<text x="870" y="716" font-family="Arial,DejaVu Sans,sans-serif" font-size="21" fill="#172b4d">event</text>
+<polyline points="500,730 390,730" fill="none" stroke="#476582" stroke-width="3"/>
+<polygon points="390,730 403.81591491004326,724.1587248653702 403.81591491004326,735.8412751346298" fill="#476582"/>
+<rect x="401" y="693" width="66.0" height="30" fill="white"/>
+<text x="405" y="716" font-family="Arial,DejaVu Sans,sans-serif" font-size="21" fill="#172b4d">offline</text>
+<rect x="40" y="250" width="350" height="160" rx="8" fill="#fff2d9" stroke="#476582" stroke-width="2"/>
+<text x="54" y="288" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">D1 Raw snapshot</text>
+<text x="54" y="319" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">Операции / rules</text>
+<text x="54" y="350" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">Cutoff / manifest</text>
+<rect x="500" y="250" width="350" height="160" rx="8" fill="#e8f2ff" stroke="#476582" stroke-width="2"/>
+<text x="514" y="288" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">P1 Point-in-time</text>
+<text x="514" y="319" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">Сверка / features</text>
+<text x="514" y="350" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">Никаких future outcomes</text>
+<rect x="960" y="250" width="350" height="160" rx="8" fill="#e4f5ec" stroke="#476582" stroke-width="2"/>
+<text x="974" y="288" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">P2 Rank</text>
+<text x="974" y="319" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">Аномальность / reasons</text>
+<text x="974" y="350" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">Untrusted output</text>
+<rect x="1420" y="250" width="330" height="160" rx="8" fill="#e8f2ff" stroke="#476582" stroke-width="2"/>
+<text x="1434" y="288" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">P3 Validate</text>
+<text x="1434" y="319" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">Schema / source / quota</text>
+<text x="1434" y="350" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">READY либо ABSTAIN</text>
+<rect x="1420" y="650" width="330" height="160" rx="8" fill="#fff2d9" stroke="#476582" stroke-width="2"/>
+<text x="1434" y="688" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">D2 Verified cases</text>
+<text x="1434" y="719" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">Mandatory / control / model</text>
+<text x="1434" y="750" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">Idempotent delivery</text>
+<rect x="960" y="650" width="350" height="160" rx="8" fill="#e8f2ff" stroke="#476582" stroke-width="2"/>
+<text x="974" y="688" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">P4 Human review</text>
+<text x="974" y="719" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">Expert / independent audit</text>
+<text x="974" y="750" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">No automatic payment</text>
+<rect x="500" y="650" width="350" height="160" rx="8" fill="#fff2d9" stroke="#476582" stroke-width="2"/>
+<text x="514" y="688" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">D3 Outcomes / Audit</text>
+<text x="514" y="719" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">Event time / known_at</text>
+<text x="514" y="750" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">3 different outcome traces</text>
+<rect x="40" y="650" width="350" height="160" rx="8" fill="#e8f2ff" stroke="#476582" stroke-width="2"/>
+<text x="54" y="688" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">Offline evaluation</text>
+<text x="54" y="719" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">Permitted export</text>
+<text x="54" y="750" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" fill="#172b4d">Mature cohorts only</text>
+<text x="40" y="1031" font-family="Arial,DejaVu Sans,sans-serif" font-size="21" fill="#172b4d">TB3: model artifacts → P2 (signed digest). TB4: человек → P4 (OIDC/RBAC/audit).</text>
+<text x="40" y="1061" font-family="Arial,DejaVu Sans,sans-serif" font-size="21" fill="#172b4d">TB5: P3 → D2, граница доверия к проверенному case. Ни один score не означает HOLD/RELEASE.</text>
+</svg>
